@@ -1,0 +1,36 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "AI Assistant using RAG + Groq + LangChain",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "rag",
+    "ai",
+    "groq",
+    "langchain",
+    "nodejs",
+    "pdf-ai",
+    "finance-ai"
+  ],
+  "author": "Helly Patel",
+  "license": "ISC",
+  "dependencies": {
+    "@huggingface/transformers": "^3.8.1",
+    "@langchain/community": "^1.1.28",
+    "@langchain/core": "^1.1.48",
+    "@langchain/groq": "^1.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "groq-sdk": "^1.2.0",
+    "gtts": "^0.2.1",
+    "langchain": "^1.4.2",
+    "multer": "^2.1.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
