@@ -99,6 +99,9 @@ project/
 ```
 
 ---
+# Demo
+<img width="2557" height="1331" alt="image" src="https://github.com/user-attachments/assets/9af53ead-7534-4cb3-95d4-b29bcdec9090" />
+---
 
 # ⚙️ Installation
 
